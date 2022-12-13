@@ -24,6 +24,27 @@ Projeto desenvolvido  na aula de programação para internet dois(PPI2), utiliza
 ## 🚀 Objetivo
 
 Desenvolver uma APIrestful
+  
+## 🚀 Rodando o Projeto
+Instale python e django.
+
+Clone este repositório.
+
+Prepare o banco de dados SQLite, que já vem com o Django:
+```
+python manage.py migrate
+```
+Para acessar o banco de dados:
+```
+python manage.py shell
+```
+
+Com o projeto criado e preparado, pode subir a aplicação usando novamente o script manage.py. Ele recebe como parâmetro runserver, que sobe a aplicação:
+```
+python manage.py runserver
+```
+Acesse-o localmente através da URL:
+localhost:8000
 
 
 
