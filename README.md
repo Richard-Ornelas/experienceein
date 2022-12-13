@@ -13,7 +13,6 @@ Projeto desenvolvido  na aula de programação para internet dois(PPI2), utiliza
 - [x] Primeiros passos com Django
 - [x] Construção do Back-end
 - [x] Construção do Front-end
-- [x] Construção do Front-end
 - [x] Deploy da aplicação
 
 
