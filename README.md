@@ -3,7 +3,7 @@
 
 ## 📝  Descrição
 
-Projeto desenvolvido  na aula de programação para internet dois(PPI2), utilizando a linguagem de programação Python (versão 3.7) e o framework Django (versão 2.2)
+Projeto desenvolvido  na aula de programação para internet dois(PPI2), utilizando a linguagem de programação Python (versão 3.7), o framework Django (versão 2.2) e Bootstrap 4.
 
 
 ## 💻 Etapas do projeto
@@ -21,7 +21,7 @@ Projeto desenvolvido  na aula de programação para internet dois(PPI2), utiliza
 <b>Richard Ornelas<b>
 <b>Dr.Fabio Henrique<b>
 
-## 🚀 Objetivo
+##  Objetivo
 
 Desenvolver uma APIrestful
   
